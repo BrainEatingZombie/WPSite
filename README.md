@@ -1,0 +1,2 @@
+# WPSite
+Testing WordPress functionality
